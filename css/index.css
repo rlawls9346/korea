@@ -30,7 +30,7 @@ body { font-family: '나눔고딕'; font-size: 16px; color: #333;}
 
 #section .slide > div { position: relative;}
 #section .slide > div > .text { position: absolute; top: 50%; left: 50%; 
-    transform: translate(-50%, 50%); background: rgba(255, 255, 255, 0.6);
+    transform: translate(-50%, -50%); background: rgba(255, 255, 255, 0.6);
     text-align: center; padding: 20px 40px; border-radius: 25px;}
 
 #section .slide > div > .text h2 { font-size: 32px; margin-bottom: 15px; font-weight: bold;}
